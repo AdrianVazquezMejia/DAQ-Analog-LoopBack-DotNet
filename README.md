@@ -1,5 +1,8 @@
 # DAQ-Analog-LoopBack-DotNet
 Using .Net and a DAQ to loop back analog data using C#
+# Requirements
+
+To have installed the National Instrument APIs for Visual Studio
 
 # Usage
 
